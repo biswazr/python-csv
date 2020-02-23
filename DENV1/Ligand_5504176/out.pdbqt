@@ -1,0 +1,600 @@
+MODEL 1
+REMARK VINA RESULT:     -10.6      0.000      0.000
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C14_20  and  O2_2 
+REMARK    2  A    between atoms: C6_12  and  O2_2 
+REMARK    3  A    between atoms: C8_14  and  O3_3 
+REMARK       I    between atoms: C17_23  and  N1_6 
+REMARK    4  A    between atoms: C3_9  and  N1_6 
+REMARK    5  A    between atoms: C13_19  and  C7_13 
+REMARK    6  A    between atoms: C14_20  and  C17_23 
+ROOT
+HETATM    1  O1  UNK     1      19.782  -1.680  33.589  1.00  0.00    -0.309 OA
+HETATM    2  O4  UNK     1      17.046   0.834  35.261  1.00  0.00    -0.287 OA
+HETATM    3  C1  UNK     1      18.555  -0.960  35.558  1.00  0.00     0.081 A 
+HETATM    4  C2  UNK     1      19.481  -1.786  34.923  1.00  0.00     0.095 A 
+HETATM    5  C6  UNK     1      19.885  -2.930  37.011  1.00  0.00     0.074 A 
+HETATM    6  C7  UNK     1      19.129  -0.713  32.840  1.00  0.00     0.090 A 
+HETATM    7  C8  UNK     1      18.289  -1.114  36.920  1.00  0.00     0.085 A 
+HETATM    8  C9  UNK     1      20.148  -2.773  35.649  1.00  0.00     0.075 A 
+HETATM    9  C10 UNK     1      17.867   0.073  34.768  1.00  0.00     0.190 A 
+HETATM   10  C11 UNK     1      18.957  -2.101  37.645  1.00  0.00     0.074 A 
+HETATM   11  C12 UNK     1      18.224   0.146  33.337  1.00  0.00     0.094 A 
+ENDROOT
+BRANCH   5  12
+HETATM   12  O2  UNK     1      20.535  -3.891  37.722  1.00  0.00    -0.342 OA
+BRANCH  12  13
+HETATM   13  C14 UNK     1      19.881  -5.152  37.857  1.00  0.00     0.278 C 
+BRANCH  13  14
+HETATM   14  C17 UNK     1      20.841  -6.246  37.443  1.00  0.00     0.246 C 
+HETATM   15  O5  UNK     1      22.054  -6.069  37.510  1.00  0.00    -0.271 OA
+HETATM   16  N1  UNK     1      20.166  -7.384  37.021  1.00  0.00    -0.324 N 
+HETATM   17  H4  UNK     1      19.149  -7.358  37.001  1.00  0.00     0.169 HD
+BRANCH  16  18
+HETATM   18  C3  UNK     1      20.729  -8.600  36.565  1.00  0.00     0.046 A 
+HETATM   19  C4  UNK     1      20.916  -9.643  37.460  1.00  0.00    -0.035 A 
+HETATM   20  C15 UNK     1      21.469 -10.842  37.009  1.00  0.00     0.009 A 
+HETATM   21  C19 UNK     1      20.541  -9.521  38.902  1.00  0.00     0.050 C 
+HETATM   22  C18 UNK     1      21.829 -10.984  35.669  1.00  0.00     0.001 A 
+HETATM   23  C16 UNK     1      21.635  -9.928  34.779  1.00  0.00     0.009 A 
+HETATM   24  C5  UNK     1      21.081  -8.729  35.230  1.00  0.00    -0.035 A 
+HETATM   25  C20 UNK     1      20.886  -7.616  34.251  1.00  0.00     0.050 C 
+ENDBRANCH  16  18
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH   5  12
+BRANCH   7  26
+HETATM   26  O3  UNK     1      17.394  -0.332  37.585  1.00  0.00    -0.360 OA
+HETATM   27  H20 UNK     1      17.811   0.085  38.355  1.00  0.00     0.217 HD
+ENDBRANCH   7  26
+BRANCH   6  28
+HETATM   28  C13 UNK     1      19.532  -0.681  31.419  1.00  0.00    -0.002 A 
+HETATM   29  C21 UNK     1      19.333   0.474  30.660  1.00  0.00     0.014 A 
+HETATM   30  C23 UNK     1      19.712   0.504  29.318  1.00  0.00     0.001 A 
+HETATM   31  C25 UNK     1      20.291  -0.621  28.731  1.00  0.00     0.000 A 
+HETATM   32  C24 UNK     1      20.490  -1.777  29.486  1.00  0.00     0.001 A 
+HETATM   33  C22 UNK     1      20.111  -1.807  30.829  1.00  0.00     0.014 A 
+ENDBRANCH   6  28
+TORSDOF 6
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:     -10.6      0.008      1.546
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C14_20  and  O2_2 
+REMARK    2  A    between atoms: C6_12  and  O2_2 
+REMARK    3  A    between atoms: C8_14  and  O3_3 
+REMARK       I    between atoms: C17_23  and  N1_6 
+REMARK    4  A    between atoms: C3_9  and  N1_6 
+REMARK    5  A    between atoms: C13_19  and  C7_13 
+REMARK    6  A    between atoms: C14_20  and  C17_23 
+ROOT
+HETATM    1  O1  UNK     1      19.785  -1.679  33.584  1.00  0.00    -0.309 OA
+HETATM    2  O4  UNK     1      17.039   0.822  35.257  1.00  0.00    -0.287 OA
+HETATM    3  C1  UNK     1      18.554  -0.966  35.553  1.00  0.00     0.081 A 
+HETATM    4  C2  UNK     1      19.484  -1.788  34.918  1.00  0.00     0.095 A 
+HETATM    5  C6  UNK     1      19.892  -2.931  37.005  1.00  0.00     0.074 A 
+HETATM    6  C7  UNK     1      19.129  -0.715  32.836  1.00  0.00     0.090 A 
+HETATM    7  C8  UNK     1      18.288  -1.122  36.915  1.00  0.00     0.085 A 
+HETATM    8  C9  UNK     1      20.155  -2.772  35.643  1.00  0.00     0.075 A 
+HETATM    9  C10 UNK     1      17.863   0.065  34.764  1.00  0.00     0.190 A 
+HETATM   10  C11 UNK     1      18.960  -2.107  37.639  1.00  0.00     0.074 A 
+HETATM   11  C12 UNK     1      18.220   0.140  33.333  1.00  0.00     0.094 A 
+ENDROOT
+BRANCH   5  12
+HETATM   12  O2  UNK     1      20.545  -3.891  37.716  1.00  0.00    -0.342 OA
+BRANCH  12  13
+HETATM   13  C14 UNK     1      19.891  -5.150  37.860  1.00  0.00     0.278 C 
+BRANCH  13  14
+HETATM   14  C17 UNK     1      20.848  -6.248  37.448  1.00  0.00     0.246 C 
+HETATM   15  O5  UNK     1      22.061  -6.075  37.520  1.00  0.00    -0.271 OA
+HETATM   16  N1  UNK     1      20.170  -7.382  37.021  1.00  0.00    -0.324 N 
+HETATM   17  H4  UNK     1      19.153  -7.352  36.997  1.00  0.00     0.169 HD
+BRANCH  16  18
+HETATM   18  C3  UNK     1      20.730  -8.600  36.564  1.00  0.00     0.046 A 
+HETATM   19  C4  UNK     1      21.086  -8.727  35.229  1.00  0.00    -0.035 A 
+HETATM   20  C15 UNK     1      21.638  -9.926  34.780  1.00  0.00     0.009 A 
+HETATM   21  C19 UNK     1      20.894  -7.612  34.252  1.00  0.00     0.050 C 
+HETATM   22  C18 UNK     1      21.828 -10.984  35.669  1.00  0.00     0.001 A 
+HETATM   23  C16 UNK     1      21.467 -10.842  37.008  1.00  0.00     0.009 A 
+HETATM   24  C5  UNK     1      20.914  -9.643  37.459  1.00  0.00    -0.035 A 
+HETATM   25  C20 UNK     1      20.537  -9.523  38.899  1.00  0.00     0.050 C 
+ENDBRANCH  16  18
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH   5  12
+BRANCH   7  26
+HETATM   26  O3  UNK     1      17.390  -0.344  37.580  1.00  0.00    -0.360 OA
+HETATM   27  H20 UNK     1      16.681  -0.888  37.956  1.00  0.00     0.217 HD
+ENDBRANCH   7  26
+BRANCH   6  28
+HETATM   28  C13 UNK     1      19.532  -0.680  31.415  1.00  0.00    -0.002 A 
+HETATM   29  C21 UNK     1      19.333   0.477  30.658  1.00  0.00     0.014 A 
+HETATM   30  C23 UNK     1      19.713   0.509  29.316  1.00  0.00     0.001 A 
+HETATM   31  C25 UNK     1      20.293  -0.614  28.727  1.00  0.00     0.000 A 
+HETATM   32  C24 UNK     1      20.492  -1.771  29.480  1.00  0.00     0.001 A 
+HETATM   33  C22 UNK     1      20.112  -1.805  30.823  1.00  0.00     0.014 A 
+ENDBRANCH   6  28
+TORSDOF 6
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:     -10.3      4.032      7.407
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C14_20  and  O2_2 
+REMARK    2  A    between atoms: C6_12  and  O2_2 
+REMARK    3  A    between atoms: C8_14  and  O3_3 
+REMARK       I    between atoms: C17_23  and  N1_6 
+REMARK    4  A    between atoms: C3_9  and  N1_6 
+REMARK    5  A    between atoms: C13_19  and  C7_13 
+REMARK    6  A    between atoms: C14_20  and  C17_23 
+ROOT
+HETATM    1  O1  UNK     1      19.301   2.209  31.334  1.00  0.00    -0.309 OA
+HETATM    2  O4  UNK     1      17.946   1.624  27.536  1.00  0.00    -0.287 OA
+HETATM    3  C1  UNK     1      19.092   0.745  29.406  1.00  0.00     0.081 A 
+HETATM    4  C2  UNK     1      19.527   1.011  30.704  1.00  0.00     0.095 A 
+HETATM    5  C6  UNK     1      20.483  -1.202  30.832  1.00  0.00     0.074 A 
+HETATM    6  C7  UNK     1      18.618   3.198  30.645  1.00  0.00     0.090 A 
+HETATM    7  C8  UNK     1      19.350  -0.493  28.815  1.00  0.00     0.085 A 
+HETATM    8  C9  UNK     1      20.223   0.037  31.419  1.00  0.00     0.075 A 
+HETATM    9  C10 UNK     1      18.360   1.790  28.675  1.00  0.00     0.190 A 
+HETATM   10  C11 UNK     1      20.047  -1.467  29.532  1.00  0.00     0.074 A 
+HETATM   11  C12 UNK     1      18.144   3.061  29.396  1.00  0.00     0.094 A 
+ENDROOT
+BRANCH   5  12
+HETATM   12  O2  UNK     1      21.162  -2.155  31.527  1.00  0.00    -0.342 OA
+BRANCH  12  13
+HETATM   13  C14 UNK     1      20.408  -2.957  32.435  1.00  0.00     0.278 C 
+BRANCH  13  14
+HETATM   14  C17 UNK     1      20.406  -2.288  33.792  1.00  0.00     0.246 C 
+HETATM   15  O5  UNK     1      21.462  -2.043  34.367  1.00  0.00    -0.271 OA
+HETATM   16  N1  UNK     1      19.114  -2.020  34.226  1.00  0.00    -0.324 N 
+HETATM   17  H4  UNK     1      18.339  -2.316  33.636  1.00  0.00     0.169 HD
+BRANCH  16  18
+HETATM   18  C3  UNK     1      18.723  -1.406  35.440  1.00  0.00     0.046 A 
+HETATM   19  C4  UNK     1      18.809  -2.123  36.625  1.00  0.00    -0.035 A 
+HETATM   20  C15 UNK     1      18.424  -1.517  37.821  1.00  0.00     0.009 A 
+HETATM   21  C19 UNK     1      19.304  -3.533  36.659  1.00  0.00     0.050 C 
+HETATM   22  C18 UNK     1      17.959  -0.202  37.819  1.00  0.00     0.001 A 
+HETATM   23  C16 UNK     1      17.878   0.507  36.621  1.00  0.00     0.009 A 
+HETATM   24  C5  UNK     1      18.262  -0.098  35.424  1.00  0.00    -0.035 A 
+HETATM   25  C20 UNK     1      18.163   0.688  34.158  1.00  0.00     0.050 C 
+ENDBRANCH  16  18
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH   5  12
+BRANCH   7  26
+HETATM   26  O3  UNK     1      18.947  -0.801  27.551  1.00  0.00    -0.360 OA
+HETATM   27  H20 UNK     1      19.696  -1.112  27.020  1.00  0.00     0.217 HD
+ENDBRANCH   7  26
+BRANCH   6  28
+HETATM   28  C13 UNK     1      18.425   4.443  31.417  1.00  0.00    -0.002 A 
+HETATM   29  C21 UNK     1      18.014   4.384  32.750  1.00  0.00     0.014 A 
+HETATM   30  C23 UNK     1      17.831   5.559  33.479  1.00  0.00     0.001 A 
+HETATM   31  C25 UNK     1      18.058   6.797  32.877  1.00  0.00     0.000 A 
+HETATM   32  C24 UNK     1      18.468   6.859  31.546  1.00  0.00     0.001 A 
+HETATM   33  C22 UNK     1      18.651   5.684  30.816  1.00  0.00     0.014 A 
+ENDBRANCH   6  28
+TORSDOF 6
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:     -10.3      4.026      7.505
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C14_20  and  O2_2 
+REMARK    2  A    between atoms: C6_12  and  O2_2 
+REMARK    3  A    between atoms: C8_14  and  O3_3 
+REMARK       I    between atoms: C17_23  and  N1_6 
+REMARK    4  A    between atoms: C3_9  and  N1_6 
+REMARK    5  A    between atoms: C13_19  and  C7_13 
+REMARK    6  A    between atoms: C14_20  and  C17_23 
+ROOT
+HETATM    1  O1  UNK     1      19.292   2.216  31.316  1.00  0.00    -0.309 OA
+HETATM    2  O4  UNK     1      17.931   1.622  27.522  1.00  0.00    -0.287 OA
+HETATM    3  C1  UNK     1      19.082   0.748  29.391  1.00  0.00     0.081 A 
+HETATM    4  C2  UNK     1      19.518   1.017  30.688  1.00  0.00     0.095 A 
+HETATM    5  C6  UNK     1      20.479  -1.194  30.819  1.00  0.00     0.074 A 
+HETATM    6  C7  UNK     1      18.606   3.203  30.626  1.00  0.00     0.090 A 
+HETATM    7  C8  UNK     1      19.341  -0.491  28.802  1.00  0.00     0.085 A 
+HETATM    8  C9  UNK     1      20.218   0.046  31.404  1.00  0.00     0.075 A 
+HETATM    9  C10 UNK     1      18.346   1.790  28.660  1.00  0.00     0.190 A 
+HETATM   10  C11 UNK     1      20.041  -1.462  29.520  1.00  0.00     0.074 A 
+HETATM   11  C12 UNK     1      18.129   3.063  29.378  1.00  0.00     0.094 A 
+ENDROOT
+BRANCH   5  12
+HETATM   12  O2  UNK     1      21.161  -2.144  31.515  1.00  0.00    -0.342 OA
+BRANCH  12  13
+HETATM   13  C14 UNK     1      20.408  -2.952  32.418  1.00  0.00     0.278 C 
+BRANCH  13  14
+HETATM   14  C17 UNK     1      20.408  -2.293  33.780  1.00  0.00     0.246 C 
+HETATM   15  O5  UNK     1      21.465  -2.056  34.357  1.00  0.00    -0.271 OA
+HETATM   16  N1  UNK     1      19.117  -2.023  34.215  1.00  0.00    -0.324 N 
+HETATM   17  H4  UNK     1      18.341  -2.310  33.622  1.00  0.00     0.169 HD
+BRANCH  16  18
+HETATM   18  C3  UNK     1      18.728  -1.415  35.433  1.00  0.00     0.046 A 
+HETATM   19  C4  UNK     1      18.265  -0.108  35.425  1.00  0.00    -0.035 A 
+HETATM   20  C15 UNK     1      17.881   0.490  36.625  1.00  0.00     0.009 A 
+HETATM   21  C19 UNK     1      18.165   0.685  34.162  1.00  0.00     0.050 C 
+HETATM   22  C18 UNK     1      17.963  -0.226  37.819  1.00  0.00     0.001 A 
+HETATM   23  C16 UNK     1      18.430  -1.540  37.814  1.00  0.00     0.009 A 
+HETATM   24  C5  UNK     1      18.815  -2.138  36.613  1.00  0.00    -0.035 A 
+HETATM   25  C20 UNK     1      19.311  -3.548  36.641  1.00  0.00     0.050 C 
+ENDBRANCH  16  18
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH   5  12
+BRANCH   7  26
+HETATM   26  O3  UNK     1      18.936  -0.802  27.540  1.00  0.00    -0.360 OA
+HETATM   27  H20 UNK     1      19.403  -1.587  27.216  1.00  0.00     0.217 HD
+ENDBRANCH   7  26
+BRANCH   6  28
+HETATM   28  C13 UNK     1      18.412   4.449  31.396  1.00  0.00    -0.002 A 
+HETATM   29  C21 UNK     1      18.639   5.688  30.793  1.00  0.00     0.014 A 
+HETATM   30  C23 UNK     1      18.457   6.865  31.520  1.00  0.00     0.001 A 
+HETATM   31  C25 UNK     1      18.046   6.806  32.851  1.00  0.00     0.000 A 
+HETATM   32  C24 UNK     1      17.819   5.570  33.457  1.00  0.00     0.001 A 
+HETATM   33  C22 UNK     1      18.001   4.393  32.730  1.00  0.00     0.014 A 
+ENDBRANCH   6  28
+TORSDOF 6
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:     -10.3      1.840      2.259
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C14_20  and  O2_2 
+REMARK    2  A    between atoms: C6_12  and  O2_2 
+REMARK    3  A    between atoms: C8_14  and  O3_3 
+REMARK       I    between atoms: C17_23  and  N1_6 
+REMARK    4  A    between atoms: C3_9  and  N1_6 
+REMARK    5  A    between atoms: C13_19  and  C7_13 
+REMARK    6  A    between atoms: C14_20  and  C17_23 
+ROOT
+HETATM    1  O1  UNK     1      19.343  -1.089  33.507  1.00  0.00    -0.309 OA
+HETATM    2  O4  UNK     1      17.486   2.233  34.962  1.00  0.00    -0.287 OA
+HETATM    3  C1  UNK     1      18.384   0.093  35.401  1.00  0.00     0.081 A 
+HETATM    4  C2  UNK     1      19.020  -1.013  34.838  1.00  0.00     0.095 A 
+HETATM    5  C6  UNK     1      19.054  -2.088  37.000  1.00  0.00     0.074 A 
+HETATM    6  C7  UNK     1      19.014  -0.021  32.686  1.00  0.00     0.090 A 
+HETATM    7  C8  UNK     1      18.079   0.114  36.763  1.00  0.00     0.085 A 
+HETATM    8  C9  UNK     1      19.357  -2.106  35.637  1.00  0.00     0.075 A 
+HETATM    9  C10 UNK     1      18.041   1.231  34.535  1.00  0.00     0.190 A 
+HETATM   10  C11 UNK     1      18.417  -0.980  37.562  1.00  0.00     0.074 A 
+HETATM   11  C12 UNK     1      18.408   1.100  33.110  1.00  0.00     0.094 A 
+ENDROOT
+BRANCH   5  12
+HETATM   12  O2  UNK     1      19.382  -3.152  37.783  1.00  0.00    -0.342 OA
+BRANCH  12  13
+HETATM   13  C14 UNK     1      20.710  -3.658  37.668  1.00  0.00     0.278 C 
+BRANCH  13  14
+HETATM   14  C17 UNK     1      20.645  -5.142  37.380  1.00  0.00     0.246 C 
+HETATM   15  O5  UNK     1      20.926  -5.573  36.265  1.00  0.00    -0.271 OA
+HETATM   16  N1  UNK     1      20.255  -5.862  38.501  1.00  0.00    -0.324 N 
+HETATM   17  H4  UNK     1      20.030  -5.345  39.348  1.00  0.00     0.169 HD
+BRANCH  16  18
+HETATM   18  C3  UNK     1      20.085  -7.264  38.609  1.00  0.00     0.046 A 
+HETATM   19  C4  UNK     1      18.971  -7.861  38.038  1.00  0.00    -0.035 A 
+HETATM   20  C15 UNK     1      18.804  -9.242  38.144  1.00  0.00     0.009 A 
+HETATM   21  C19 UNK     1      17.936  -7.065  37.311  1.00  0.00     0.050 C 
+HETATM   22  C18 UNK     1      19.754 -10.009  38.818  1.00  0.00     0.001 A 
+HETATM   23  C16 UNK     1      20.871  -9.397  39.386  1.00  0.00     0.009 A 
+HETATM   24  C5  UNK     1      21.037  -8.015  39.281  1.00  0.00    -0.035 A 
+HETATM   25  C20 UNK     1      22.244  -7.389  39.900  1.00  0.00     0.050 C 
+ENDBRANCH  16  18
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH   5  12
+BRANCH   7  26
+HETATM   26  O3  UNK     1      17.459   1.170  37.360  1.00  0.00    -0.360 OA
+HETATM   27  H20 UNK     1      17.839   2.007  37.052  1.00  0.00     0.217 HD
+ENDBRANCH   7  26
+BRANCH   6  28
+HETATM   28  C13 UNK     1      19.412  -0.203  31.275  1.00  0.00    -0.002 A 
+HETATM   29  C21 UNK     1      19.106   0.777  30.329  1.00  0.00     0.014 A 
+HETATM   30  C23 UNK     1      19.482   0.605  28.996  1.00  0.00     0.001 A 
+HETATM   31  C25 UNK     1      20.162  -0.548  28.606  1.00  0.00     0.000 A 
+HETATM   32  C24 UNK     1      20.468  -1.530  29.549  1.00  0.00     0.001 A 
+HETATM   33  C22 UNK     1      20.093  -1.358  30.882  1.00  0.00     0.014 A 
+ENDBRANCH   6  28
+TORSDOF 6
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:     -10.0      5.112     11.392
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C14_20  and  O2_2 
+REMARK    2  A    between atoms: C6_12  and  O2_2 
+REMARK    3  A    between atoms: C8_14  and  O3_3 
+REMARK       I    between atoms: C17_23  and  N1_6 
+REMARK    4  A    between atoms: C3_9  and  N1_6 
+REMARK    5  A    between atoms: C13_19  and  C7_13 
+REMARK    6  A    between atoms: C14_20  and  C17_23 
+ROOT
+HETATM    1  O1  UNK     1      19.093  -0.217  33.374  1.00  0.00    -0.309 OA
+HETATM    2  O4  UNK     1      20.706  -2.567  30.462  1.00  0.00    -0.287 OA
+HETATM    3  C1  UNK     1      19.697  -0.510  31.039  1.00  0.00     0.081 A 
+HETATM    4  C2  UNK     1      19.159   0.242  32.083  1.00  0.00     0.095 A 
+HETATM    5  C6  UNK     1      18.699   2.043  30.542  1.00  0.00     0.074 A 
+HETATM    6  C7  UNK     1      19.576  -1.487  33.648  1.00  0.00     0.090 A 
+HETATM    7  C8  UNK     1      19.738   0.010  29.743  1.00  0.00     0.085 A 
+HETATM    8  C9  UNK     1      18.659   1.521  31.836  1.00  0.00     0.075 A 
+HETATM    9  C10 UNK     1      20.217  -1.854  31.328  1.00  0.00     0.190 A 
+HETATM   10  C11 UNK     1      19.237   1.289  29.498  1.00  0.00     0.074 A 
+HETATM   11  C12 UNK     1      20.122  -2.303  32.732  1.00  0.00     0.094 A 
+ENDROOT
+BRANCH   5  12
+HETATM   12  O2  UNK     1      18.212   3.291  30.298  1.00  0.00    -0.342 OA
+BRANCH  12  13
+HETATM   13  C14 UNK     1      19.025   4.163  29.516  1.00  0.00     0.278 C 
+BRANCH  13  14
+HETATM   14  C17 UNK     1      19.124   5.500  30.218  1.00  0.00     0.246 C 
+HETATM   15  O5  UNK     1      19.480   6.501  29.603  1.00  0.00    -0.271 OA
+HETATM   16  N1  UNK     1      18.766   5.402  31.556  1.00  0.00    -0.324 N 
+HETATM   17  H4  UNK     1      18.518   4.483  31.919  1.00  0.00     0.169 HD
+BRANCH  16  18
+HETATM   18  C3  UNK     1      18.737   6.438  32.519  1.00  0.00     0.046 A 
+HETATM   19  C4  UNK     1      17.520   7.000  32.878  1.00  0.00    -0.035 A 
+HETATM   20  C15 UNK     1      17.492   8.022  33.828  1.00  0.00     0.009 A 
+HETATM   21  C19 UNK     1      16.232   6.543  32.275  1.00  0.00     0.050 C 
+HETATM   22  C18 UNK     1      18.680   8.469  34.407  1.00  0.00     0.001 A 
+HETATM   23  C16 UNK     1      19.896   7.895  34.038  1.00  0.00     0.009 A 
+HETATM   24  C5  UNK     1      19.924   6.873  33.087  1.00  0.00    -0.035 A 
+HETATM   25  C20 UNK     1      21.243   6.279  32.713  1.00  0.00     0.050 C 
+ENDBRANCH  16  18
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH   5  12
+BRANCH   7  26
+HETATM   26  O3  UNK     1      20.253  -0.685  28.691  1.00  0.00    -0.360 OA
+HETATM   27  H20 UNK     1      21.050  -0.249  28.352  1.00  0.00     0.217 HD
+ENDBRANCH   7  26
+BRANCH   6  28
+HETATM   28  C13 UNK     1      19.462  -1.879  35.068  1.00  0.00    -0.002 A 
+HETATM   29  C21 UNK     1      18.467  -1.318  35.872  1.00  0.00     0.014 A 
+HETATM   30  C23 UNK     1      18.360  -1.688  37.213  1.00  0.00     0.001 A 
+HETATM   31  C25 UNK     1      19.246  -2.619  37.754  1.00  0.00     0.000 A 
+HETATM   32  C24 UNK     1      20.241  -3.181  36.953  1.00  0.00     0.001 A 
+HETATM   33  C22 UNK     1      20.349  -2.811  35.612  1.00  0.00     0.014 A 
+ENDBRANCH   6  28
+TORSDOF 6
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -9.7     27.866     30.052
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C14_20  and  O2_2 
+REMARK    2  A    between atoms: C6_12  and  O2_2 
+REMARK    3  A    between atoms: C8_14  and  O3_3 
+REMARK       I    between atoms: C17_23  and  N1_6 
+REMARK    4  A    between atoms: C3_9  and  N1_6 
+REMARK    5  A    between atoms: C13_19  and  C7_13 
+REMARK    6  A    between atoms: C14_20  and  C17_23 
+ROOT
+HETATM    1  O1  UNK     1       9.610   5.524   9.707  1.00  0.00    -0.309 OA
+HETATM    2  O4  UNK     1       9.300   6.580   5.784  1.00  0.00    -0.287 OA
+HETATM    3  C1  UNK     1      10.695   5.905   7.567  1.00  0.00     0.081 A 
+HETATM    4  C2  UNK     1      10.730   5.552   8.915  1.00  0.00     0.095 A 
+HETATM    5  C6  UNK     1      13.116   5.216   8.761  1.00  0.00     0.074 A 
+HETATM    6  C7  UNK     1       8.393   5.870   9.140  1.00  0.00     0.090 A 
+HETATM    7  C8  UNK     1      11.869   5.915   6.810  1.00  0.00     0.085 A 
+HETATM    8  C9  UNK     1      11.941   5.207   9.515  1.00  0.00     0.075 A 
+HETATM    9  C10 UNK     1       9.405   6.264   6.961  1.00  0.00     0.190 A 
+HETATM   10  C11 UNK     1      13.079   5.570   7.411  1.00  0.00     0.074 A 
+HETATM   11  C12 UNK     1       8.229   6.220   7.854  1.00  0.00     0.094 A 
+ENDROOT
+BRANCH   5  12
+HETATM   12  O2  UNK     1      14.299   4.879   9.343  1.00  0.00    -0.342 OA
+BRANCH  12  13
+HETATM   13  C14 UNK     1      15.388   5.785   9.174  1.00  0.00     0.278 C 
+BRANCH  13  14
+HETATM   14  C17 UNK     1      15.163   6.990  10.063  1.00  0.00     0.246 C 
+HETATM   15  O5  UNK     1      15.153   6.869  11.284  1.00  0.00    -0.271 OA
+HETATM   16  N1  UNK     1      14.993   8.149   9.318  1.00  0.00    -0.324 N 
+HETATM   17  H4  UNK     1      15.003   8.071   8.303  1.00  0.00     0.169 HD
+BRANCH  16  18
+HETATM   18  C3  UNK     1      14.763   9.459   9.802  1.00  0.00     0.046 A 
+HETATM   19  C4  UNK     1      13.460   9.901   9.979  1.00  0.00    -0.035 A 
+HETATM   20  C15 UNK     1      13.233  11.191  10.457  1.00  0.00     0.009 A 
+HETATM   21  C19 UNK     1      12.284   9.031   9.670  1.00  0.00     0.050 C 
+HETATM   22  C18 UNK     1      14.312  12.025  10.753  1.00  0.00     0.001 A 
+HETATM   23  C16 UNK     1      15.617  11.568  10.572  1.00  0.00     0.009 A 
+HETATM   24  C5  UNK     1      15.844  10.277  10.093  1.00  0.00    -0.035 A 
+HETATM   25  C20 UNK     1      17.254   9.818   9.910  1.00  0.00     0.050 C 
+ENDBRANCH  16  18
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH   5  12
+BRANCH   7  26
+HETATM   26  O3  UNK     1      11.887   6.252   5.490  1.00  0.00    -0.360 OA
+HETATM   27  H20 UNK     1      11.976   7.212   5.385  1.00  0.00     0.217 HD
+ENDBRANCH   7  26
+BRANCH   6  28
+HETATM   28  C13 UNK     1       7.253   5.801  10.078  1.00  0.00    -0.002 A 
+HETATM   29  C21 UNK     1       6.957   6.889  10.902  1.00  0.00     0.014 A 
+HETATM   30  C23 UNK     1       5.881   6.823  11.788  1.00  0.00     0.001 A 
+HETATM   31  C25 UNK     1       5.098   5.671  11.851  1.00  0.00     0.000 A 
+HETATM   32  C24 UNK     1       5.392   4.582  11.030  1.00  0.00     0.001 A 
+HETATM   33  C22 UNK     1       6.468   4.647  10.144  1.00  0.00     0.014 A 
+ENDBRANCH   6  28
+TORSDOF 6
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -9.7      2.220      2.996
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C14_20  and  O2_2 
+REMARK    2  A    between atoms: C6_12  and  O2_2 
+REMARK    3  A    between atoms: C8_14  and  O3_3 
+REMARK       I    between atoms: C17_23  and  N1_6 
+REMARK    4  A    between atoms: C3_9  and  N1_6 
+REMARK    5  A    between atoms: C13_19  and  C7_13 
+REMARK    6  A    between atoms: C14_20  and  C17_23 
+ROOT
+HETATM    1  O1  UNK     1      18.885   0.419  34.222  1.00  0.00    -0.309 OA
+HETATM    2  O4  UNK     1      17.425   1.152  37.954  1.00  0.00    -0.287 OA
+HETATM    3  C1  UNK     1      18.472  -0.370  36.482  1.00  0.00     0.081 A 
+HETATM    4  C2  UNK     1      18.954  -0.554  35.187  1.00  0.00     0.095 A 
+HETATM    5  C6  UNK     1      19.635  -2.798  35.763  1.00  0.00     0.074 A 
+HETATM    6  C7  UNK     1      18.305   1.634  34.550  1.00  0.00     0.090 A 
+HETATM    7  C8  UNK     1      18.569  -1.397  37.423  1.00  0.00     0.085 A 
+HETATM    8  C9  UNK     1      19.536  -1.769  34.825  1.00  0.00     0.075 A 
+HETATM    9  C10 UNK     1      17.864   0.921  36.836  1.00  0.00     0.190 A 
+HETATM   10  C11 UNK     1      19.152  -2.612  37.060  1.00  0.00     0.074 A 
+HETATM   11  C12 UNK     1      17.812   1.934  35.763  1.00  0.00     0.094 A 
+ENDROOT
+BRANCH   5  12
+HETATM   12  O2  UNK     1      20.203  -3.984  35.413  1.00  0.00    -0.342 OA
+BRANCH  12  13
+HETATM   13  C14 UNK     1      20.784  -4.759  36.460  1.00  0.00     0.278 C 
+BRANCH  13  14
+HETATM   14  C17 UNK     1      20.065  -6.088  36.541  1.00  0.00     0.246 C 
+HETATM   15  O5  UNK     1      18.916  -6.201  36.125  1.00  0.00    -0.271 OA
+HETATM   16  N1  UNK     1      20.867  -7.068  37.110  1.00  0.00    -0.324 N 
+HETATM   17  H4  UNK     1      21.795  -6.801  37.430  1.00  0.00     0.169 HD
+BRANCH  16  18
+HETATM   18  C3  UNK     1      20.535  -8.424  37.346  1.00  0.00     0.046 A 
+HETATM   19  C4  UNK     1      19.974  -8.786  38.563  1.00  0.00    -0.035 A 
+HETATM   20  C15 UNK     1      19.646 -10.122  38.795  1.00  0.00     0.009 A 
+HETATM   21  C19 UNK     1      19.710  -7.783  39.639  1.00  0.00     0.050 C 
+HETATM   22  C18 UNK     1      19.882 -11.080  37.809  1.00  0.00     0.001 A 
+HETATM   23  C16 UNK     1      20.445 -10.702  36.590  1.00  0.00     0.009 A 
+HETATM   24  C5  UNK     1      20.774  -9.366  36.357  1.00  0.00    -0.035 A 
+HETATM   25  C20 UNK     1      21.376  -8.994  35.042  1.00  0.00     0.050 C 
+ENDBRANCH  16  18
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH   5  12
+BRANCH   7  26
+HETATM   26  O3  UNK     1      18.115  -1.266  38.701  1.00  0.00    -0.360 OA
+HETATM   27  H20 UNK     1      18.254  -2.087  39.198  1.00  0.00     0.217 HD
+ENDBRANCH   7  26
+BRANCH   6  28
+HETATM   28  C13 UNK     1      18.288   2.611  33.442  1.00  0.00    -0.002 A 
+HETATM   29  C21 UNK     1      18.343   2.168  32.118  1.00  0.00     0.014 A 
+HETATM   30  C23 UNK     1      18.327   3.091  31.071  1.00  0.00     0.001 A 
+HETATM   31  C25 UNK     1      18.257   4.456  31.344  1.00  0.00     0.000 A 
+HETATM   32  C24 UNK     1      18.204   4.901  32.665  1.00  0.00     0.001 A 
+HETATM   33  C22 UNK     1      18.219   3.979  33.713  1.00  0.00     0.014 A 
+ENDBRANCH   6  28
+TORSDOF 6
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -9.6      3.397      5.414
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C14_20  and  O2_2 
+REMARK    2  A    between atoms: C6_12  and  O2_2 
+REMARK    3  A    between atoms: C8_14  and  O3_3 
+REMARK       I    between atoms: C17_23  and  N1_6 
+REMARK    4  A    between atoms: C3_9  and  N1_6 
+REMARK    5  A    between atoms: C13_19  and  C7_13 
+REMARK    6  A    between atoms: C14_20  and  C17_23 
+ROOT
+HETATM    1  O1  UNK     1      18.227   2.719  33.216  1.00  0.00    -0.309 OA
+HETATM    2  O4  UNK     1      19.153   1.390  29.477  1.00  0.00    -0.287 OA
+HETATM    3  C1  UNK     1      18.857   0.876  31.764  1.00  0.00     0.081 A 
+HETATM    4  C2  UNK     1      18.531   1.396  33.016  1.00  0.00     0.095 A 
+HETATM    5  C6  UNK     1      18.801  -0.795  33.993  1.00  0.00     0.074 A 
+HETATM    6  C7  UNK     1      18.255   3.575  32.126  1.00  0.00     0.090 A 
+HETATM    7  C8  UNK     1      19.157  -0.480  31.620  1.00  0.00     0.085 A 
+HETATM    8  C9  UNK     1      18.502   0.561  34.133  1.00  0.00     0.075 A 
+HETATM    9  C10 UNK     1      18.879   1.779  30.604  1.00  0.00     0.190 A 
+HETATM   10  C11 UNK     1      19.128  -1.315  32.738  1.00  0.00     0.074 A 
+HETATM   11  C12 UNK     1      18.547   3.193  30.872  1.00  0.00     0.094 A 
+ENDROOT
+BRANCH   5  12
+HETATM   12  O2  UNK     1      18.774  -1.613  35.080  1.00  0.00    -0.342 OA
+BRANCH  12  13
+HETATM   13  C14 UNK     1      19.850  -2.538  35.225  1.00  0.00     0.278 C 
+BRANCH  13  14
+HETATM   14  C17 UNK     1      19.639  -3.340  36.491  1.00  0.00     0.246 C 
+HETATM   15  O5  UNK     1      19.240  -2.793  37.515  1.00  0.00    -0.271 OA
+HETATM   16  N1  UNK     1      19.942  -4.682  36.301  1.00  0.00    -0.324 N 
+HETATM   17  H4  UNK     1      20.289  -4.969  35.388  1.00  0.00     0.169 HD
+BRANCH  16  18
+HETATM   18  C3  UNK     1      19.864  -5.726  37.253  1.00  0.00     0.046 A 
+HETATM   19  C4  UNK     1      18.744  -6.544  37.278  1.00  0.00    -0.035 A 
+HETATM   20  C15 UNK     1      18.668  -7.573  38.216  1.00  0.00     0.009 A 
+HETATM   21  C19 UNK     1      17.608  -6.354  36.325  1.00  0.00     0.050 C 
+HETATM   22  C18 UNK     1      19.713  -7.773  39.118  1.00  0.00     0.001 A 
+HETATM   23  C16 UNK     1      20.834  -6.944  39.082  1.00  0.00     0.009 A 
+HETATM   24  C5  UNK     1      20.910  -5.914  38.144  1.00  0.00    -0.035 A 
+HETATM   25  C20 UNK     1      22.124  -5.043  38.131  1.00  0.00     0.050 C 
+ENDBRANCH  16  18
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH   5  12
+BRANCH   7  26
+HETATM   26  O3  UNK     1      19.481  -1.036  30.420  1.00  0.00    -0.360 OA
+HETATM   27  H20 UNK     1      20.057  -1.806  30.545  1.00  0.00     0.217 HD
+ENDBRANCH   7  26
+BRANCH   6  28
+HETATM   28  C13 UNK     1      17.907   4.973  32.452  1.00  0.00    -0.002 A 
+HETATM   29  C21 UNK     1      17.752   5.913  31.430  1.00  0.00     0.014 A 
+HETATM   30  C23 UNK     1      17.424   7.234  31.737  1.00  0.00     0.001 A 
+HETATM   31  C25 UNK     1      17.250   7.619  33.066  1.00  0.00     0.000 A 
+HETATM   32  C24 UNK     1      17.405   6.683  34.089  1.00  0.00     0.001 A 
+HETATM   33  C22 UNK     1      17.733   5.361  33.782  1.00  0.00     0.014 A 
+ENDBRANCH   6  28
+TORSDOF 6
+ENDMDL
+MODEL 10
+REMARK VINA RESULT:      -9.5      2.365      8.964
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C14_20  and  O2_2 
+REMARK    2  A    between atoms: C6_12  and  O2_2 
+REMARK    3  A    between atoms: C8_14  and  O3_3 
+REMARK       I    between atoms: C17_23  and  N1_6 
+REMARK    4  A    between atoms: C3_9  and  N1_6 
+REMARK    5  A    between atoms: C13_19  and  C7_13 
+REMARK    6  A    between atoms: C14_20  and  C17_23 
+ROOT
+HETATM    1  O1  UNK     1      22.090  -7.907  36.733  1.00  0.00    -0.309 OA
+HETATM    2  O4  UNK     1      18.328  -9.470  36.665  1.00  0.00    -0.287 OA
+HETATM    3  C1  UNK     1      19.690  -7.550  36.861  1.00  0.00     0.081 A 
+HETATM    4  C2  UNK     1      21.003  -7.081  36.874  1.00  0.00     0.095 A 
+HETATM    5  C6  UNK     1      20.191  -4.828  37.183  1.00  0.00     0.074 A 
+HETATM    6  C7  UNK     1      21.870  -9.266  36.578  1.00  0.00     0.090 A 
+HETATM    7  C8  UNK     1      18.623  -6.662  37.009  1.00  0.00     0.085 A 
+HETATM    8  C9  UNK     1      21.256  -5.719  37.035  1.00  0.00     0.075 A 
+HETATM    9  C10 UNK     1      19.453  -8.991  36.689  1.00  0.00     0.190 A 
+HETATM   10  C11 UNK     1      18.877  -5.300  37.170  1.00  0.00     0.074 A 
+HETATM   11  C12 UNK     1      20.654  -9.837  36.543  1.00  0.00     0.094 A 
+ENDROOT
+BRANCH   5  12
+HETATM   12  O2  UNK     1      20.435  -3.498  37.340  1.00  0.00    -0.342 OA
+BRANCH  12  13
+HETATM   13  C14 UNK     1      19.480  -2.594  36.787  1.00  0.00     0.278 C 
+BRANCH  13  14
+HETATM   14  C17 UNK     1      20.097  -1.905  35.589  1.00  0.00     0.246 C 
+HETATM   15  O5  UNK     1      21.214  -1.402  35.666  1.00  0.00    -0.271 OA
+HETATM   16  N1  UNK     1      19.253  -1.947  34.486  1.00  0.00    -0.324 N 
+HETATM   17  H4  UNK     1      18.341  -2.383  34.598  1.00  0.00     0.169 HD
+BRANCH  16  18
+HETATM   18  C3  UNK     1      19.491  -1.410  33.198  1.00  0.00     0.046 A 
+HETATM   19  C4  UNK     1      18.927  -0.190  32.854  1.00  0.00    -0.035 A 
+HETATM   20  C15 UNK     1      19.162   0.339  31.585  1.00  0.00     0.009 A 
+HETATM   21  C19 UNK     1      18.069   0.578  33.806  1.00  0.00     0.050 C 
+HETATM   22  C18 UNK     1      19.959  -0.356  30.676  1.00  0.00     0.001 A 
+HETATM   23  C16 UNK     1      20.521  -1.581  31.035  1.00  0.00     0.009 A 
+HETATM   24  C5  UNK     1      20.286  -2.111  32.304  1.00  0.00    -0.035 A 
+HETATM   25  C20 UNK     1      20.902  -3.425  32.658  1.00  0.00     0.050 C 
+ENDBRANCH  16  18
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH   5  12
+BRANCH   7  26
+HETATM   26  O3  UNK     1      17.323  -7.070  37.004  1.00  0.00    -0.360 OA
+HETATM   27  H20 UNK     1      17.017  -7.220  36.096  1.00  0.00     0.217 HD
+ENDBRANCH   7  26
+BRANCH   6  28
+HETATM   28  C13 UNK     1      23.106 -10.062  36.429  1.00  0.00    -0.002 A 
+HETATM   29  C21 UNK     1      24.337  -9.521  36.808  1.00  0.00     0.014 A 
+HETATM   30  C23 UNK     1      25.504 -10.272  36.666  1.00  0.00     0.001 A 
+HETATM   31  C25 UNK     1      25.445 -11.564  36.146  1.00  0.00     0.000 A 
+HETATM   32  C24 UNK     1      24.217 -12.107  35.766  1.00  0.00     0.001 A 
+HETATM   33  C22 UNK     1      23.049 -11.356  35.907  1.00  0.00     0.014 A 
+ENDBRANCH   6  28
+TORSDOF 6
+ENDMDL
