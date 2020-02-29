@@ -1,0 +1,38 @@
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK       I    between atoms: C7_9  and  N1_2 
+REMARK    1  A    between atoms: C7_9  and  C8_10 
+REMARK    2  A    between atoms: C8_10  and  C9_11 
+REMARK    3  A    between atoms: C10_12  and  C11_13 
+ROOT
+HETATM    1  C8  UNK     1      -1.110  -0.158  -0.514  1.00  0.00     0.043 C 
+HETATM    2  C10 UNK     1      -0.576  -0.501  -1.699  1.00  0.00     0.029 C 
+ENDROOT
+BRANCH   1   3
+HETATM    3  C7  UNK     1      -0.542   1.060   0.099  1.00  0.00     0.255 C 
+HETATM    4  O1  UNK     1      -1.076   2.135  -0.178  1.00  0.00    -0.267 OA
+HETATM    5  N1  UNK     1       0.557   0.914   0.950  1.00  0.00    -0.344 N 
+HETATM    6  C1  UNK     1       1.123  -0.379   1.407  1.00  0.00     0.083 C 
+HETATM    7  C5  UNK     1       1.123   2.122   1.564  1.00  0.00     0.126 C 
+HETATM    8  C2  UNK     1       2.660  -0.351   1.413  1.00  0.00     0.025 C 
+HETATM    9  C6  UNK     1       0.547  -0.775   2.769  1.00  0.00     0.032 C 
+HETATM   10  C3  UNK     1       3.233   0.876   2.113  1.00  0.00     0.004 C 
+HETATM   11  C4  UNK     1       2.645   2.145   1.510  1.00  0.00     0.020 C 
+ENDBRANCH   1   3
+BRANCH   1  12
+HETATM   12  C9  UNK     1      -2.178  -0.887   0.183  1.00  0.00    -0.021 A 
+HETATM   13  C12 UNK     1      -2.294  -2.259   0.012  1.00  0.00     0.012 A 
+HETATM   14  C14 UNK     1      -3.308  -2.951   0.674  1.00  0.00     0.001 A 
+HETATM   15  C18 UNK     1      -4.197  -2.263   1.500  1.00  0.00     0.000 A 
+HETATM   16  C15 UNK     1      -4.071  -0.884   1.664  1.00  0.00     0.001 A 
+HETATM   17  C13 UNK     1      -3.057  -0.192   1.002  1.00  0.00     0.012 A 
+ENDBRANCH   1  12
+BRANCH   2  18
+HETATM   18  C11 UNK     1       0.493   0.224  -2.402  1.00  0.00    -0.035 A 
+HETATM   19  C16 UNK     1       0.160   1.226  -3.301  1.00  0.00     0.011 A 
+HETATM   20  C19 UNK     1       1.174   1.913  -3.968  1.00  0.00     0.001 A 
+HETATM   21  C21 UNK     1       2.510   1.590  -3.728  1.00  0.00     0.000 A 
+HETATM   22  C20 UNK     1       2.831   0.580  -2.822  1.00  0.00     0.001 A 
+HETATM   23  C17 UNK     1       1.817  -0.107  -2.155  1.00  0.00     0.011 A 
+ENDBRANCH   2  18
+TORSDOF 3

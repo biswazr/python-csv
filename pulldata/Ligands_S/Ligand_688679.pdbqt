@@ -1,0 +1,35 @@
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C15_19  and  O2_2 
+REMARK    2  A    between atoms: C11_15  and  O4_4 
+REMARK    3  A    between atoms: C2_6  and  C4_8 
+ROOT
+HETATM    1  O1  UNK     1       0.456  -1.406   1.609  1.00  0.00    -0.309 OA
+HETATM    2  O3  UNK     1       0.702  -3.414  -1.927  1.00  0.00    -0.287 OA
+HETATM    3  C1  UNK     1       0.868  -3.489   0.429  1.00  0.00     0.051 A 
+HETATM    4  C2  UNK     1       0.244  -0.771   0.396  1.00  0.00     0.090 A 
+HETATM    5  C3  UNK     1       0.766  -2.743   1.602  1.00  0.00     0.090 A 
+HETATM    6  C5  UNK     1       0.633  -2.820  -0.860  1.00  0.00     0.187 A 
+HETATM    7  C6  UNK     1       0.306  -1.381  -0.798  1.00  0.00     0.093 A 
+HETATM    8  C7  UNK     1       1.186  -4.848   0.481  1.00  0.00     0.054 A 
+HETATM    9  C8  UNK     1       0.982  -3.353   2.837  1.00  0.00     0.041 A 
+HETATM   10  C11 UNK     1       1.402  -5.456   1.718  1.00  0.00     0.066 A 
+HETATM   11  C12 UNK     1       1.301  -4.710   2.894  1.00  0.00     0.039 A 
+ENDROOT
+BRANCH   4  12
+HETATM   12  C4  UNK     1      -0.088   0.663   0.519  1.00  0.00    -0.002 A 
+HETATM   13  C10 UNK     1       0.430   1.414   1.578  1.00  0.00     0.017 A 
+HETATM   14  C14 UNK     1       0.117   2.768   1.694  1.00  0.00     0.037 A 
+HETATM   15  C15 UNK     1      -0.714   3.376   0.753  1.00  0.00     0.068 A 
+HETATM   16  C13 UNK     1      -1.232   2.629  -0.305  1.00  0.00     0.037 A 
+HETATM   17  C9  UNK     1      -0.920   1.275  -0.422  1.00  0.00     0.017 A 
+BRANCH  15  18
+HETATM   18  O2  UNK     1      -1.020   4.697   0.868  1.00  0.00    -0.356 OA
+HETATM   19  C16 UNK     1      -0.456   5.401   1.973  1.00  0.00     0.210 C 
+ENDBRANCH  15  18
+ENDBRANCH   4  12
+BRANCH  10  20
+HETATM   20  O4  UNK     1       1.713  -6.780   1.779  1.00  0.00    -0.361 OA
+HETATM   21  H9  UNK     1       1.741  -7.140   0.876  1.00  0.00     0.217 HD
+ENDBRANCH  10  20
+TORSDOF 3
